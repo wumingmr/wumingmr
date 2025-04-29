@@ -22,20 +22,10 @@
 
 ## 🛠️ 我的技能 | My Skills
 
-<p align="left">
-  ## 纯废物
-  </p>
+## 纯废物
 
 <br/>
 
-## 📊 GitHub 统计 | GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wumingmr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wumingmr&layout=compact&langs_count=8&theme=nord"/>
-</p>
-
-<br/>
 
 ## 🔗 与我联系 | Connect with Me
 
